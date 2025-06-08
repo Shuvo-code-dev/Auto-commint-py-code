@@ -1,6 +1,19 @@
 # Python
  This is a py code who just auto commint in your github repo.
 
+## 📌 Features  
+    ✅ **Automatically updates `daily_update.txt`**  
+    ✅ **Commits & Pushes changes to GitHub**  
+    ✅ **Works with Windows Task Scheduler for automation**  
+    ✅ **Runs daily without manual intervention**  
+
+## 🚀 Installation  
+    1️⃣ **Install Python:** [Download Python](https://www.python.org/downloads/)  
+    2️⃣ **Install Git:** [Download Git](https://git-scm.com/downloads)  
+    3️⃣ **Clone the repository:**  
+    ```bash
+git clone https://github.com/Shuvo-code-dev/Auto-commit-github.git
+cd your-repo
 
 ## Steps to Set Up Windows Task Scheduler for Your Python Script 🚀:
 
@@ -47,18 +60,3 @@
     Click Finish ✅
 
     Now, Task Scheduler will automatically run your script at the set time every day.
-
-## 📌 Features  
-✅ **Automatically updates `daily_update.txt`**  
-✅ **Commits & Pushes changes to GitHub**  
-✅ **Works with Windows Task Scheduler for automation**  
-✅ **Runs daily without manual intervention**  
-
-## 🚀 Installation  
-1️⃣ **Install Python:** [Download Python](https://www.python.org/downloads/)  
-2️⃣ **Install Git:** [Download Git](https://git-scm.com/downloads)  
-3️⃣ **Clone the repository:**  
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
- 
