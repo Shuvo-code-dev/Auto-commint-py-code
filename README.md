@@ -12,8 +12,8 @@
     2️⃣ **Install Git:** [Download Git](https://git-scm.com/downloads)  
     3️⃣ **Clone the repository:**  
     ```bash
-git clone https://github.com/Shuvo-code-dev/Auto-commit-github.git
-cd your-repo
+    git clone https://github.com/Shuvo-code-dev/Auto-commit-github.git
+    cd your-repo
 
 ## Steps to Set Up Windows Task Scheduler for Your Python Script 🚀:
 
